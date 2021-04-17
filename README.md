@@ -1,2 +1,2 @@
-# To-Do-App
-ToDo App for personal use with ReactJS
+# to-do-App
+Todo App for personal use with ReactJS
