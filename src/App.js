@@ -14,7 +14,7 @@ function App() {
         Prit's Todo list
       </header>
       <Form inputText={inputText} todos={todos} setInputText={setInputText} setTodos={setTodos}/>
-      <TodoList todos={todos} />
+      <TodoList todos={todos} setTodos={setTodos} />
     </div>
   );
 }
